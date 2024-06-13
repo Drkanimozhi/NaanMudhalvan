@@ -1,0 +1,234 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo,Chrome 125.0.0.0,,,13-06-2024 11:10:20,13-06-2024 11:30:50,20m - 29.641s,FAILED
+,,,,,,,
+Test Cases/Anna University/Admission,Chrome 125.0.0.0,,,13-06-2024 11:11:30,13-06-2024 11:11:53,23.019s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:11:30,13-06-2024 11:11:33,2.757s,PASSED
+"navigateToUrl(""https://cfa.annauniv.edu/cfa/"")",Chrome 125.0.0.0,,,13-06-2024 11:11:33,13-06-2024 11:11:39,5.894s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/a_ADMINISTRATION""))",Chrome 125.0.0.0,,,13-06-2024 11:11:39,13-06-2024 11:11:39,0.345s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/a_Directors""))",Chrome 125.0.0.0,,,13-06-2024 11:11:39,13-06-2024 11:11:41,1.785s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/a_ADMINISTRATION""))",Chrome 125.0.0.0,,,13-06-2024 11:11:41,13-06-2024 11:11:42,0.325s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/a_Staff""))",Chrome 125.0.0.0,,,13-06-2024 11:11:42,13-06-2024 11:11:42,0.885s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/li_MUTHURAMAN B         Superintendent""))",Chrome 125.0.0.0,,,13-06-2024 11:11:42,13-06-2024 11:11:43,0.290s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/li_VENKATESH R        Sr. Application Programmer""))",Chrome 125.0.0.0,,,13-06-2024 11:11:43,13-06-2024 11:11:43,0.286s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/li_JEBA JOHNSLY J        Professional Assistant-I""))",Chrome 125.0.0.0,,,13-06-2024 11:11:43,13-06-2024 11:11:43,0.330s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/b_ADMINISTRATION""))",Chrome 125.0.0.0,,,13-06-2024 11:11:43,13-06-2024 11:11:44,0.279s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/b_UG Admissions""))",Chrome 125.0.0.0,,,13-06-2024 11:11:44,13-06-2024 11:11:44,0.311s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/a_B.EB.Tech""))",Chrome 125.0.0.0,,,13-06-2024 11:11:44,13-06-2024 11:11:44,0.303s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/a_OTHER STATE""))",Chrome 125.0.0.0,,,13-06-2024 11:11:44,13-06-2024 11:11:45,0.417s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/p_EVENT""))",Chrome 125.0.0.0,,,13-06-2024 11:11:45,13-06-2024 11:11:45,0.532s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/th_EVENT""))",Chrome 125.0.0.0,,,13-06-2024 11:11:45,13-06-2024 11:11:45,0.315s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/td_02.07.2023""))",Chrome 125.0.0.0,,,13-06-2024 11:11:45,13-06-2024 11:11:46,0.328s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/td_Commencement of Online Payment of Regist_f04650""))",Chrome 125.0.0.0,,,13-06-2024 11:11:46,13-06-2024 11:11:46,0.297s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/td_Registration of Applications through Online""))",Chrome 125.0.0.0,,,13-06-2024 11:11:46,13-06-2024 11:11:46,0.317s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/p_(CEG AC Tech. MIT  SAP)""))",Chrome 125.0.0.0,,,13-06-2024 11:11:46,13-06-2024 11:11:47,0.280s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/p_(B.E.B.Tech.B.Arch.)""))",Chrome 125.0.0.0,,,13-06-2024 11:11:47,13-06-2024 11:11:47,0.317s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/td_Notification                            _5b9328""))",Chrome 125.0.0.0,,,13-06-2024 11:11:47,13-06-2024 11:11:47,0.324s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/p_For any Queries  044 2235 8314 044 2235 8_12a43c""))",Chrome 125.0.0.0,,,13-06-2024 11:11:47,13-06-2024 11:11:49,1.856s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/b_UG Admissions""))",Chrome 125.0.0.0,,,13-06-2024 11:11:49,13-06-2024 11:11:51,1.984s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Admission/Page_Admissions/a_B.Arch""))",Chrome 125.0.0.0,,,13-06-2024 11:11:51,13-06-2024 11:11:53,2.230s,FAILED
+,,,,,,,
+Test Cases/Anna University/Departments,Chrome 125.0.0.0,,,13-06-2024 11:12:25,13-06-2024 11:12:36,10.480s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:12:25,13-06-2024 11:12:27,1.799s,PASSED
+"navigateToUrl(""https://www.auegov.ac.in/Department/cse"")",Chrome 125.0.0.0,,,13-06-2024 11:12:27,13-06-2024 11:12:34,6.800s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Department/Page_Computer Science and Engineering/i_Photo Gallery_bi bi-list mobile-nav-toggle""))",Chrome 125.0.0.0,,,13-06-2024 11:12:34,13-06-2024 11:12:35,0.931s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Department/Page_Computer Science and Engineering/i_Photo Gallery_bi mobile-nav-toggle bi-x""))",Chrome 125.0.0.0,,,13-06-2024 11:12:35,13-06-2024 11:12:35,0.320s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity Department/Page_Computer Science and Engineering/div_Mission                            Our _19ac26""))",Chrome 125.0.0.0,,,13-06-2024 11:12:35,13-06-2024 11:12:36,0.595s,FAILED
+,,,,,,,
+Test Cases/Anna University/Home Page,Chrome 125.0.0.0,,,13-06-2024 11:15:45,13-06-2024 11:16:45,1m - 0.077s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:15:45,13-06-2024 11:15:48,2.460s,PASSED
+"navigateToUrl(""https://www.annauniv.edu/"")",Chrome 125.0.0.0,,,13-06-2024 11:15:48,13-06-2024 11:15:57,9.404s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity HomePage/Page_Anna University, Chennai/ul_HomeSportsIQACAffiliationLibraryPlacemen_c7c9af""))",Chrome 125.0.0.0,,,13-06-2024 11:15:57,13-06-2024 11:15:58,0.369s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity HomePage/Page_Anna University, Chennai/img""))",Chrome 125.0.0.0,,,13-06-2024 11:15:58,13-06-2024 11:16:02,4.811s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity HomePage/Page_Anna University, Chennai/img""))",Chrome 125.0.0.0,,,13-06-2024 11:16:02,13-06-2024 11:16:05,2.619s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity HomePage/Page_Anna University, Chennai/button_UG Admission 2024-25B.E.(Training In_244dfb""))",Chrome 125.0.0.0,,,13-06-2024 11:16:05,13-06-2024 11:16:06,1.276s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity HomePage/Page_Anna University, Chennai/img_1""))",Chrome 125.0.0.0,,,13-06-2024 11:16:06,13-06-2024 11:16:08,2.000s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity HomePage/Page_Anna University, Chennai/div_Asias oldest technical institution foun_742dfe""))",Chrome 125.0.0.0,,,13-06-2024 11:16:08,13-06-2024 11:16:10,2.103s,PASSED
+"click(findTestObject(""Object Repository/AnnaUniversity HomePage/Page_Anna University, Chennai/img_1_2""))",Chrome 125.0.0.0,,,13-06-2024 11:16:10,13-06-2024 11:16:45,35.011s,FAILED
+,,,,,,,
+Test Cases/Madurai Kamaraj University/Academic,Chrome 125.0.0.0,,,13-06-2024 11:16:45,13-06-2024 11:17:31,45.218s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:16:45,13-06-2024 11:16:48,2.203s,PASSED
+"navigateToUrl(""https://mkuniversity.ac.in/new/acollege/afc"")",Chrome 125.0.0.0,,,13-06-2024 11:16:48,13-06-2024 11:16:55,7.438s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Colleges Affiliated to MKU""))",Chrome 125.0.0.0,,,13-06-2024 11:16:55,13-06-2024 11:16:56,0.935s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Colleges Affiliated to MKU""))",Chrome 125.0.0.0,,,13-06-2024 11:16:56,13-06-2024 11:16:57,0.969s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Government Non Autonomous College""))",Chrome 125.0.0.0,,,13-06-2024 11:16:57,13-06-2024 11:16:58,1.372s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Government Autonomous College""))",Chrome 125.0.0.0,,,13-06-2024 11:16:58,13-06-2024 11:17:00,1.527s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Aided Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:00,13-06-2024 11:17:01,0.867s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Aided Autonomous Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:01,13-06-2024 11:17:02,1.422s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Self Financing Autonomous Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:02,13-06-2024 11:17:04,1.355s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/h3_Affiliated Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:04,13-06-2024 11:17:05,1.160s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_MKU Approved Institutions""))",Chrome 125.0.0.0,,,13-06-2024 11:17:05,13-06-2024 11:17:05,0.555s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Government Non Autonomous College""))",Chrome 125.0.0.0,,,13-06-2024 11:17:05,13-06-2024 11:17:07,1.464s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Colleges Affiliated to MKU""))",Chrome 125.0.0.0,,,13-06-2024 11:17:07,13-06-2024 11:17:08,1.358s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Government Autonomous College""))",Chrome 125.0.0.0,,,13-06-2024 11:17:08,13-06-2024 11:17:09,0.776s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Aided Autonomous Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:09,13-06-2024 11:17:10,0.734s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Self Financing Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:10,13-06-2024 11:17:10,0.747s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_MKU College""))",Chrome 125.0.0.0,,,13-06-2024 11:17:10,13-06-2024 11:17:12,1.332s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Academics""))",Chrome 125.0.0.0,,,13-06-2024 11:17:12,13-06-2024 11:17:13,1.205s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Aided Colleges_1""))",Chrome 125.0.0.0,,,13-06-2024 11:17:13,13-06-2024 11:17:13,0.539s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Academics""))",Chrome 125.0.0.0,,,13-06-2024 11:17:13,13-06-2024 11:17:14,0.543s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Colleges affiliated to MKU (1)""))",Chrome 125.0.0.0,,,13-06-2024 11:17:14,13-06-2024 11:17:15,0.889s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Colleges Affiliated to MKU""))",Chrome 125.0.0.0,,,13-06-2024 11:17:15,13-06-2024 11:17:16,1.365s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 11:17:16,13-06-2024 11:17:17,0.554s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_MKU Self Finance Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:17,13-06-2024 11:17:18,0.827s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:17:18,13-06-2024 11:17:19,1.286s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Academics""))",Chrome 125.0.0.0,,,13-06-2024 11:17:19,13-06-2024 11:17:19,0.361s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_MKU Constituent Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:19,13-06-2024 11:17:20,0.527s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Academics""))",Chrome 125.0.0.0,,,13-06-2024 11:17:20,13-06-2024 11:17:21,1.121s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_MKU Self Finance Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:17:21,13-06-2024 11:17:21,0.585s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Academics""))",Chrome 125.0.0.0,,,13-06-2024 11:17:21,13-06-2024 11:17:23,1.155s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_MKU Approved Institutions_1""))",Chrome 125.0.0.0,,,13-06-2024 11:17:23,13-06-2024 11:17:23,0.548s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal              Akilika Herba_a8e2f6""))",Chrome 125.0.0.0,,,13-06-2024 11:17:23,13-06-2024 11:17:24,1.166s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal             Annai Fatima I_b37bd6""))",Chrome 125.0.0.0,,,13-06-2024 11:17:24,13-06-2024 11:17:25,0.581s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal              College of Ga_1a80ac""))",Chrome 125.0.0.0,,,13-06-2024 11:17:25,13-06-2024 11:17:25,0.332s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal              Institute of _626c81""))",Chrome 125.0.0.0,,,13-06-2024 11:17:25,13-06-2024 11:17:26,0.343s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal              Meenakshi Mis_a4dbcc""))",Chrome 125.0.0.0,,,13-06-2024 11:17:26,13-06-2024 11:17:26,0.329s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal              Sathangai Aca_7fb635""))",Chrome 125.0.0.0,,,13-06-2024 11:17:26,13-06-2024 11:17:26,0.305s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Tamil Nadu Theological Seminary,""))",Chrome 125.0.0.0,,,13-06-2024 11:17:26,13-06-2024 11:17:27,0.369s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal              Tamil Nadu Th_c09a34""))",Chrome 125.0.0.0,,,13-06-2024 11:17:27,13-06-2024 11:17:27,0.326s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal            Water, Sanitati_81da99""))",Chrome 125.0.0.0,,,13-06-2024 11:17:27,13-06-2024 11:17:27,0.306s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_Aishwariaym Institute of Airhostess and _291d67""))",Chrome 125.0.0.0,,,13-06-2024 11:17:27,13-06-2024 11:17:28,0.310s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_aimairhostessgmail.com""))",Chrome 125.0.0.0,,,13-06-2024 11:17:28,13-06-2024 11:17:28,0.304s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_0451- 2434888""))",Chrome 125.0.0.0,,,13-06-2024 11:17:28,13-06-2024 11:17:28,0.285s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_99408 30811""))",Chrome 125.0.0.0,,,13-06-2024 11:17:28,13-06-2024 11:17:29,0.436s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamarj University Academics/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/td_The Principal            Water, Sanitati_81da99""))",Chrome 125.0.0.0,,,13-06-2024 11:17:29,13-06-2024 11:17:29,0.320s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 11:17:29,13-06-2024 11:17:31,1.673s,PASSED
+,,,,,,,
+Test Cases/Madurai Kamaraj University/Administration,Chrome 125.0.0.0,,,13-06-2024 11:17:31,13-06-2024 11:21:12,3m - 41.236s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:17:31,13-06-2024 11:17:31,0.760s,PASSED
+"navigateToUrl(""https://mkuniversity.ac.in/new/Administration/vc"")",Chrome 125.0.0.0,,,13-06-2024 11:17:31,13-06-2024 11:17:39,7.897s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Vice-Chancellor""))",Chrome 125.0.0.0,,,13-06-2024 11:17:39,13-06-2024 11:17:40,0.294s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Vice-Chancellor  Madurai Kamaraj University""))",Chrome 125.0.0.0,,,13-06-2024 11:17:40,13-06-2024 11:17:40,0.288s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/p_Phone  91 452-2458471                    _9f0924""))",Chrome 125.0.0.0,,,13-06-2024 11:17:40,13-06-2024 11:17:40,0.350s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:17:40,13-06-2024 11:17:41,0.374s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Registrar""))",Chrome 125.0.0.0,,,13-06-2024 11:17:41,13-06-2024 11:17:41,0.812s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div""))",Chrome 125.0.0.0,,,13-06-2024 11:17:41,13-06-2024 11:17:42,0.450s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div""))",Chrome 125.0.0.0,,,13-06-2024 11:17:42,13-06-2024 11:17:42,0.406s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div""))",Chrome 125.0.0.0,,,13-06-2024 11:17:42,13-06-2024 11:17:43,0.300s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/p_Prof.Dr.M.Ramakrishnan M.E.,Ph.D.,Ph.D., _7ef71b""))",Chrome 125.0.0.0,,,13-06-2024 11:17:43,13-06-2024 11:17:43,0.288s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:17:43,13-06-2024 11:17:43,0.320s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Controller of Examinations""))",Chrome 125.0.0.0,,,13-06-2024 11:17:43,13-06-2024 11:17:44,0.600s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:17:44,13-06-2024 11:17:44,0.460s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:17:44,13-06-2024 11:17:45,0.641s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Controller of Examinations (ic)""))",Chrome 125.0.0.0,,,13-06-2024 11:17:45,13-06-2024 11:17:45,0.314s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:17:45,13-06-2024 11:17:46,0.320s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Special Officer""))",Chrome 125.0.0.0,,,13-06-2024 11:17:46,13-06-2024 11:17:46,0.619s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:17:46,13-06-2024 11:18:18,31.518s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Special Officer(Planning  Development)""))",Chrome 125.0.0.0,,,13-06-2024 11:18:18,13-06-2024 11:18:18,0.348s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:18:18,13-06-2024 11:18:18,0.316s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Dean (College Development Council)""))",Chrome 125.0.0.0,,,13-06-2024 11:18:18,13-06-2024 11:18:19,0.650s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Dean (College Development Council)""))",Chrome 125.0.0.0,,,13-06-2024 11:18:19,13-06-2024 11:18:20,0.666s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:18:20,13-06-2024 11:18:51,31.371s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/p_Dr. P. Kannadasan                        _bec3cb""))",Chrome 125.0.0.0,,,13-06-2024 11:18:51,13-06-2024 11:18:51,0.350s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:18:51,13-06-2024 11:18:52,0.321s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Dean (Arts)""))",Chrome 125.0.0.0,,,13-06-2024 11:18:52,13-06-2024 11:18:52,0.715s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Dean (Arts)""))",Chrome 125.0.0.0,,,13-06-2024 11:18:52,13-06-2024 11:18:53,0.681s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:18:53,13-06-2024 11:19:24,31.373s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/p_Dr. D. Ramakrishnan   M.A., M.Phil, Ph.D._af6fda""))",Chrome 125.0.0.0,,,13-06-2024 11:19:24,13-06-2024 11:19:25,0.276s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:19:25,13-06-2024 11:19:25,0.310s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Dean (Sciences)""))",Chrome 125.0.0.0,,,13-06-2024 11:19:25,13-06-2024 11:19:26,0.691s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Dean (Sciences)""))",Chrome 125.0.0.0,,,13-06-2024 11:19:26,13-06-2024 11:19:26,0.680s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:19:26,13-06-2024 11:19:27,0.325s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Director, DDE""))",Chrome 125.0.0.0,,,13-06-2024 11:19:27,13-06-2024 11:19:27,0.576s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/strong_Director (ic)""))",Chrome 125.0.0.0,,,13-06-2024 11:19:27,13-06-2024 11:19:28,1.071s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/p_Dr.P.Muthupandi,    M.Sc.,M.Phil.,M.Ed.,P_9561de""))",Chrome 125.0.0.0,,,13-06-2024 11:19:28,13-06-2024 11:19:29,0.331s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:19:29,13-06-2024 11:20:00,31.472s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:20:00,13-06-2024 11:20:00,0.307s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Additional Controller of Examination, DDE""))",Chrome 125.0.0.0,,,13-06-2024 11:20:00,13-06-2024 11:20:01,0.625s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:20:01,13-06-2024 11:20:33,31.412s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_1""))",Chrome 125.0.0.0,,,13-06-2024 11:20:33,13-06-2024 11:21:04,31.465s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/span_aceddemkuniversity.ac.in""))",Chrome 125.0.0.0,,,13-06-2024 11:21:04,13-06-2024 11:21:04,0.325s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/p_Dr.S.Saleema Rabiyath,    M.A.,M.B.A.,M.A_a8a6cf""))",Chrome 125.0.0.0,,,13-06-2024 11:21:04,13-06-2024 11:21:05,0.352s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/p_Dr.S.Saleema Rabiyath,    M.A.,M.B.A.,M.A_a8a6cf""))",Chrome 125.0.0.0,,,13-06-2024 11:21:05,13-06-2024 11:21:05,0.312s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:21:05,13-06-2024 11:21:05,0.284s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Officers""))",Chrome 125.0.0.0,,,13-06-2024 11:21:05,13-06-2024 11:21:07,1.623s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/span_LIST OF ADMINISTRATIVE OFFICERS""))",Chrome 125.0.0.0,,,13-06-2024 11:21:07,13-06-2024 11:21:08,0.652s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/h1_Officers""))",Chrome 125.0.0.0,,,13-06-2024 11:21:08,13-06-2024 11:21:08,0.353s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:21:08,13-06-2024 11:21:08,0.306s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/a_Organogram""))",Chrome 125.0.0.0,,,13-06-2024 11:21:08,13-06-2024 11:21:09,0.609s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/img_Organogram_img-responsive""))",Chrome 125.0.0.0,,,13-06-2024 11:21:09,13-06-2024 11:21:10,1.020s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/img_Organogram_img-responsive""))",Chrome 125.0.0.0,,,13-06-2024 11:21:10,13-06-2024 11:21:10,0.302s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Administration/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_Organogram_panel-body""))",Chrome 125.0.0.0,,,13-06-2024 11:21:10,13-06-2024 11:21:10,0.306s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 11:21:10,13-06-2024 11:21:12,1.339s,PASSED
+,,,,,,,
+Test Cases/Madurai Kamaraj University/HomePage,Chrome 125.0.0.0,,,13-06-2024 11:27:17,13-06-2024 11:29:13,1m - 56.345s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:27:17,13-06-2024 11:27:19,2.199s,PASSED
+"navigateToUrl(""https://mkuniversity.ac.in/new/"")",Chrome 125.0.0.0,,,13-06-2024 11:27:19,13-06-2024 11:27:28,8.660s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/button_Accessibility""))",Chrome 125.0.0.0,,,13-06-2024 11:27:28,13-06-2024 11:27:28,0.422s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/img__img-responsive""))",Chrome 125.0.0.0,,,13-06-2024 11:27:28,13-06-2024 11:27:31,2.629s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Links""))",Chrome 125.0.0.0,,,13-06-2024 11:27:31,13-06-2024 11:27:31,0.312s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_Facilities""))",Chrome 125.0.0.0,,,13-06-2024 11:27:31,13-06-2024 11:27:32,0.297s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/font_DDE""))",Chrome 125.0.0.0,,,13-06-2024 11:27:32,13-06-2024 11:27:34,2.057s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY/a_CIQA""))",Chrome 125.0.0.0,,,13-06-2024 11:27:34,13-06-2024 11:27:34,0.289s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY/strong_UNCLAIMED CERTIFICATE""))",Chrome 125.0.0.0,,,13-06-2024 11:27:34,13-06-2024 11:27:35,0.688s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY/div_IMPORTANT NEWS   Admission to Distance _a92253""))",Chrome 125.0.0.0,,,13-06-2024 11:27:35,13-06-2024 11:28:06,31.595s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY/strong_ABOUT US""))",Chrome 125.0.0.0,,,13-06-2024 11:28:06,13-06-2024 11:28:38,31.512s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY/img_Grievance_img-responsive""))",Chrome 125.0.0.0,,,13-06-2024 11:28:38,13-06-2024 11:28:38,0.297s,PASSED
+"click(findTestObject(""Object Repository/Madurai Kamaraj University Home/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/img_Toggle navigation_img-circle img-responsive""))",Chrome 125.0.0.0,,,13-06-2024 11:28:38,13-06-2024 11:29:13,35.383s,FAILED
+,,,,,,,
+Test Cases/Periyar University/Academics,Chrome 125.0.0.0,,,13-06-2024 11:29:34,13-06-2024 11:29:41,7.030s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:29:34,13-06-2024 11:29:36,1.487s,PASSED
+"navigateToUrl(""https://www.periyaruniversity.ac.in/Dept.php"")",Chrome 125.0.0.0,,,13-06-2024 11:29:36,13-06-2024 11:29:41,5.114s,PASSED
+"click(findTestObject(""Object Repository/Periyar University Academics/Page_Periyar University, Salem/a_Schools and Departments""))",Chrome 125.0.0.0,,,13-06-2024 11:29:41,13-06-2024 11:29:41,0.397s,FAILED
+,,,,,,,
+Test Cases/Periyar University/Administration,Chrome 125.0.0.0,,,13-06-2024 11:29:41,13-06-2024 11:30:06,25.312s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:29:41,13-06-2024 11:29:43,2.158s,PASSED
+"navigateToUrl(""https://www.periyaruniversity.ac.in/registrar.php"")",Chrome 125.0.0.0,,,13-06-2024 11:29:43,13-06-2024 11:29:48,4.397s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:29:48,13-06-2024 11:29:48,0.352s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Registrar""))",Chrome 125.0.0.0,,,13-06-2024 11:29:48,13-06-2024 11:29:49,0.533s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/img_Contact_img-thumbnail""))",Chrome 125.0.0.0,,,13-06-2024 11:29:49,13-06-2024 11:29:49,0.317s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h3_Dr. P. Viswanathamurthi""))",Chrome 125.0.0.0,,,13-06-2024 11:29:49,13-06-2024 11:29:49,0.299s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h4_Registrar (ic)""))",Chrome 125.0.0.0,,,13-06-2024 11:29:49,13-06-2024 11:29:49,0.293s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/li_Affiliated Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:29:49,13-06-2024 11:29:50,0.321s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/li_Community Colleges""))",Chrome 125.0.0.0,,,13-06-2024 11:29:50,13-06-2024 11:29:50,0.286s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/li_Library""))",Chrome 125.0.0.0,,,13-06-2024 11:29:50,13-06-2024 11:29:50,0.283s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/li_PG Research Studies""))",Chrome 125.0.0.0,,,13-06-2024 11:29:50,13-06-2024 11:29:51,0.304s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/li_Physical Education""))",Chrome 125.0.0.0,,,13-06-2024 11:29:51,13-06-2024 11:29:51,0.298s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/li_PU-CRI""))",Chrome 125.0.0.0,,,13-06-2024 11:29:51,13-06-2024 11:29:51,0.282s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/li_Schools and Departments""))",Chrome 125.0.0.0,,,13-06-2024 11:29:51,13-06-2024 11:29:52,0.283s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Schools and Departments""))",Chrome 125.0.0.0,,,13-06-2024 11:29:52,13-06-2024 11:29:52,0.431s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Computer Science""))",Chrome 125.0.0.0,,,13-06-2024 11:29:52,13-06-2024 11:29:54,1.984s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Programmes Offered""))",Chrome 125.0.0.0,,,13-06-2024 11:29:54,13-06-2024 11:29:54,0.286s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Syllabus""))",Chrome 125.0.0.0,,,13-06-2024 11:29:54,13-06-2024 11:29:55,0.292s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Faculty""))",Chrome 125.0.0.0,,,13-06-2024 11:29:55,13-06-2024 11:29:55,0.304s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:29:55,13-06-2024 11:29:55,0.617s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Controller of Examinations""))",Chrome 125.0.0.0,,,13-06-2024 11:29:55,13-06-2024 11:29:56,0.732s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h3_Prof. Dr. S. Kadhiravan""))",Chrome 125.0.0.0,,,13-06-2024 11:29:56,13-06-2024 11:29:56,0.293s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h4_Controller of Examinations (FAC)""))",Chrome 125.0.0.0,,,13-06-2024 11:29:56,13-06-2024 11:29:57,0.295s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h3_Prof. Dr. S. Kadhiravan""))",Chrome 125.0.0.0,,,13-06-2024 11:29:57,13-06-2024 11:29:57,0.286s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/div_Prof. Dr. S. Kadhiravan                _1bdc03""))",Chrome 125.0.0.0,,,13-06-2024 11:29:57,13-06-2024 11:29:57,0.333s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:29:57,13-06-2024 11:29:58,0.294s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Deans and Coordinators""))",Chrome 125.0.0.0,,,13-06-2024 11:29:58,13-06-2024 11:29:58,0.492s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h5_Dr. K. Jayaraman""))",Chrome 125.0.0.0,,,13-06-2024 11:29:58,13-06-2024 11:29:58,0.301s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/th_ACADEMICS""))",Chrome 125.0.0.0,,,13-06-2024 11:29:58,13-06-2024 11:29:59,0.297s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_College Development Council""))",Chrome 125.0.0.0,,,13-06-2024 11:29:59,13-06-2024 11:29:59,0.299s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Professor and Head, Department of Economics,""))",Chrome 125.0.0.0,,,13-06-2024 11:29:59,13-06-2024 11:29:59,0.304s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Dr. K. Jayaraman""))",Chrome 125.0.0.0,,,13-06-2024 11:29:59,13-06-2024 11:30:00,0.294s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Faculty of Arts""))",Chrome 125.0.0.0,,,13-06-2024 11:30:00,13-06-2024 11:30:00,0.291s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h5_Dr. V. Sangeetha""))",Chrome 125.0.0.0,,,13-06-2024 11:30:00,13-06-2024 11:30:00,0.270s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Faculty of Arts""))",Chrome 125.0.0.0,,,13-06-2024 11:30:00,13-06-2024 11:30:01,0.297s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Professor and Head, Department of English,""))",Chrome 125.0.0.0,,,13-06-2024 11:30:01,13-06-2024 11:30:01,0.263s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Periyar University""))",Chrome 125.0.0.0,,,13-06-2024 11:30:01,13-06-2024 11:30:01,0.356s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Faculty of Science""))",Chrome 125.0.0.0,,,13-06-2024 11:30:01,13-06-2024 11:30:01,0.277s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Dr. S. Kannan""))",Chrome 125.0.0.0,,,13-06-2024 11:30:01,13-06-2024 11:30:02,0.312s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Professor and Head, Department of Zoology,""))",Chrome 125.0.0.0,,,13-06-2024 11:30:02,13-06-2024 11:30:02,0.277s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Faculty of Social Science""))",Chrome 125.0.0.0,,,13-06-2024 11:30:02,13-06-2024 11:30:02,0.277s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/h5_Dr. J. Venkatachalam""))",Chrome 125.0.0.0,,,13-06-2024 11:30:02,13-06-2024 11:30:03,0.296s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Professor, Department of Psychology,""))",Chrome 125.0.0.0,,,13-06-2024 11:30:03,13-06-2024 11:30:03,0.287s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Research Affairs""))",Chrome 125.0.0.0,,,13-06-2024 11:30:03,13-06-2024 11:30:03,0.349s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Dr. A. Muthusamy""))",Chrome 125.0.0.0,,,13-06-2024 11:30:03,13-06-2024 11:30:04,0.283s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Student Affairs""))",Chrome 125.0.0.0,,,13-06-2024 11:30:04,13-06-2024 11:30:04,0.312s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/td_Dr. V. Raj""))",Chrome 125.0.0.0,,,13-06-2024 11:30:04,13-06-2024 11:30:04,0.318s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 11:30:04,13-06-2024 11:30:04,0.294s,PASSED
+"click(findTestObject(""Object Repository/PeriyarUniversityAdminstration/Page_Periyar University, Salem/a_Finance Officer""))",Chrome 125.0.0.0,,,13-06-2024 11:30:04,13-06-2024 11:30:05,0.528s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 11:30:05,13-06-2024 11:30:06,1.398s,PASSED
+,,,,,,,
+Test Cases/Periyar University/HomePage,Chrome 125.0.0.0,,,13-06-2024 11:30:38,13-06-2024 11:30:50,11.237s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 11:30:38,13-06-2024 11:30:40,1.950s,PASSED
+"navigateToUrl(""https://www.periyaruniversity.ac.in/"")",Chrome 125.0.0.0,,,13-06-2024 11:30:40,13-06-2024 11:30:47,6.954s,PASSED
+"click(findTestObject(""Object Repository/Periyar University Home Page/Page_Periyar University, Salem/img""))",Chrome 125.0.0.0,,,13-06-2024 11:30:47,13-06-2024 11:30:48,0.536s,PASSED
+"click(findTestObject(""Object Repository/Periyar University Home Page/Page_Periyar University, Salem/h5_State University - NIRF Rank 59 - NIRF I_e9028f""))",Chrome 125.0.0.0,,,13-06-2024 11:30:48,13-06-2024 11:30:48,0.333s,PASSED
+"click(findTestObject(""Object Repository/Periyar University Home Page/Page_Periyar University, Salem/h2_PERIYAR UNIVERSITY""))",Chrome 125.0.0.0,,,13-06-2024 11:30:48,13-06-2024 11:30:48,0.330s,PASSED
+"click(findTestObject(""Object Repository/Periyar University Home Page/Page_Periyar University, Salem/h3_""))",Chrome 125.0.0.0,,,13-06-2024 11:30:48,13-06-2024 11:30:49,0.302s,PASSED
+"click(findTestObject(""Object Repository/Periyar University Home Page/Page_Periyar University, Salem/a_Periyar University Department Admission 2024-25""))",Chrome 125.0.0.0,,,13-06-2024 11:30:49,13-06-2024 11:30:49,0.361s,PASSED
+"switchToWindowTitle(""Periyar University, Salem"")",Chrome 125.0.0.0,,,13-06-2024 11:30:49,13-06-2024 11:30:49,0.036s,PASSED
+"click(findTestObject(""Object Repository/Periyar University Home Page/Page_Periyar University, Salem/img_Vice Chancellor_rounded""))",Chrome 125.0.0.0,,,13-06-2024 11:30:49,13-06-2024 11:30:50,0.416s,FAILED
